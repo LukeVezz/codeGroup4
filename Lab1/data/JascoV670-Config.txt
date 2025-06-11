@@ -1,0 +1,26 @@
+[Data Information]
+Data array type	Linear data array
+Horizontal	Wavelength [nm]
+Vertical	Abs
+Start	800 nm
+End	350 nm
+Data pitch	1 nm
+Data points	451     
+
+
+[Measurement Information]
+Instrument Name	V-670
+Model Name	V-670
+
+Photometric Mode	Abs
+Measurement range	800 - 350 nm
+Data pitch	1 nm
+Band width(UV/Vis) 1.0 nm
+Band width(NIR)	4.0 nm
+Response	Medium
+Scanning speed	400 nm/min
+Source Change	330 nm
+Grating Change	900 nm
+Light Source	D2/WI
+Filter Exchange	Step
+Baseline Correction	Baseline/Dark
